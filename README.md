@@ -18,7 +18,7 @@ Explorar padrões clínicos e epidemiológicos de reinternações hospitalares, 
 ## 🛠️ Ferramentas Utilizadas
 - **Power BI Desktop**
 - **Power Query** (para limpeza e transformação dos dados)
-- Visualizações interativas: gráficos de rosca, mapa geográfico, barras e linhas
+- Visualizações interativas
 
 ## 📁 Como visualizar
 1. Baixe o arquivo `.pbix`
